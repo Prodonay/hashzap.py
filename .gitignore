@@ -1,1 +1,8 @@
-/gabarito.py
+# Ignorar tudo por padrão
+*
+
+# Permitir apenas o arquivo específico
+!Script\ python/teste\ 01.py
+
+# Permitir o próprio .gitignore
+!.gitignore
