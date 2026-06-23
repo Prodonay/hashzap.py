@@ -68,4 +68,4 @@ Este projeto reforça conceitos como:
 
 ## 👤 Autor
 
-Projeto desenvolvido para fins de estudo em desenvolvimento Python e interfaces gráficas.
+Projeto desenvolvido para fins de estudo em desenvolvimento Python e interfaces gráficas. Observação: este fork foi feito com o meu Repo, github.com/professorpauloramos, sou eu.
